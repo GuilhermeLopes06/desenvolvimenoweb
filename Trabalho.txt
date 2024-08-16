@@ -1,3 +1,8 @@
+Desenvolvimento Web
+Segundo período
+2024
+
+
 SQLiteBrowser: SQLite é uma base de dados independente que opera sem a necessidade de um servidor. Isso também é conhecido como uma base de dados embutida, o que significa que a engine da DB roda como parte do aplicativo.
 links -> https://sqlitebrowser.org/
 https://www.sqlite.org/features.html
